@@ -1,2 +1,3 @@
 # demo-repository
-Some Description
+Some Description!
+Hello welcome to my practice sessions.
